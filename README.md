@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrasadShingare
-- 👀 I’m interested in HTML5, CSS , JavaScript, Python, SQL , MySQL 
+- 👀 I’m interested in Scale, .NET , curl
 - 🌱 I’m currently learning Nodejs, Cloud Computing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @shingare_prasad on twitter 
